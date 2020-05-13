@@ -1,0 +1,5 @@
+Please download the word vector file as such 
+
+$ git clone http://github.com/stanfordnlp/glove
+$ cd glove && make
+$ ./demo.sh
