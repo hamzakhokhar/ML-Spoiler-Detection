@@ -1,5 +1,2 @@
-Please download the word vector file as such 
-
-$ git clone http://github.com/stanfordnlp/glove
-$ cd glove && make
-$ ./demo.sh
+Please download the word vector file as such from the link provided
+https://www.kaggle.com/watts2/glove6b50dtxt
